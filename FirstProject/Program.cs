@@ -8,7 +8,7 @@ float PhysScore;
 
 FullName = ("Мутин Егор Николаевич");
 Age = (23);
-Email = ("mutin.egor@gmail.com");
+Email = ("mutin.egor@mail.com");
 ProgrammigScore = (76.3F);
 MathScore = (68.3F);
 PhysScore = (73.4F);
